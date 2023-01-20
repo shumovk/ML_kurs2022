@@ -116,3 +116,7 @@ from sklearn.metrics import recall_score
 
 print(0.5 * (r2_score(y_reg_test, y_reg_pred) + recall_score(y_class_test, y_class_pred, average='weighted')))
 
+
+
+
+#0.2800152353799879
